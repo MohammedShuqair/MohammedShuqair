@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedshuqair&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedshuqair" /> </p>
 
-- 🌱 I’m currently learning **GetX state management , Stripe**
+- 🌱 I’m currently learning **Html/Css**
 
 - 💬 Ask me about **Flutter,Dart,java,OOP**
 
