@@ -1,4 +1,3 @@
-[![MasterHead](https://vertextechnology.com/wp-content/uploads/2016/07/banner-mobile-app.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Mohammed Abu Shuqair</h1>
 <h3 align="center">A Humble Mobile developer from Palestain</h3>
