@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eng.mohammed.shuqair@gmail.com**
 
-- 📄 Know about my experiences [cv on google docs](https://docs.google.com/document/d/1N1ecELxBhrWl79hV5rP5BdtXRs7sjlNv/edit?usp=sharing&ouid=114648512323859775509&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume on google drive](https://drive.google.com/file/d/1tNdKqcGfL1HHYF3pxCr6BzS6pcB46jqI/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Real Madrid fan**
 
