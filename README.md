@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedshuqair&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedshuqair" /> </p>
 
 
-- 💬 Ask me about **Flutter,Dart,java,OOP**
+- 💬 Ask me about **Flutter,Dart,OOP,Mobile Development**
 
 - 📫 How to reach me **eng.mohammed.shuqair@gmail.com**
 
-- 📄 Know about my experiences [Resume on google drive](https://drive.google.com/file/d/1tNdKqcGfL1HHYF3pxCr6BzS6pcB46jqI/view?usp=sharing)
+- 📄 Know about my experiences [Resume on google drive](https://drive.google.com/file/d/1B309lsgvKl1E_dHHFID90x0BTDBDMfub/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Real Madrid fan**
 
